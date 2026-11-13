@@ -1,5 +1,5 @@
 // 《집에 가기 전에》 — WebBuilder.WriteServiceWorker가 만든 파일 (빌드할 때마다 새로 씀)
-const cacheName = "beforehome-0.4.2-20261113113907";
+const cacheName = "beforehome-0.4.2-20261113124754";
 const contentToCache = ["Build/Web.data.unityweb", "Build/Web.framework.js.unityweb", "Build/Web.loader.js", "Build/Web.wasm.unityweb", "TemplateData/style.css"];
 
 self.addEventListener('install', function (e) {
